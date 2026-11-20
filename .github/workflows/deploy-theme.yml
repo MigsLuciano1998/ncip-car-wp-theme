@@ -27,7 +27,7 @@ jobs:
           local-dir: ./
           server-dir: /htdocs/wp-content/themes/gwt-wordpress-gwt-wordpress-26.0.0/
 
-          dry-run: true
+          dry-run: false
 
           exclude: |
             **/.git*
